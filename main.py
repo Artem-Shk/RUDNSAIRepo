@@ -2,5 +2,5 @@
 import imageio
 
 
-if __file__ == "__main__":
-    ...
+if __name__ == "__main__":
+    vid = imageio.get_reader("datasets/3.mp4",  'ffmpeg')
