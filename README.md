@@ -1,1 +1,2 @@
 # Cover+ 
+deathToCloseToMe.ipynb работа
